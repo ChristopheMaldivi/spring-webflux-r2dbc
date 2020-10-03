@@ -14,7 +14,7 @@ Now we should use *Webflux* for asynchronous implementations with Spring, and av
  - run database: `./rundb.sh`
  - run server: `./mvnw clean spring-boot:run`
  - retrieve info for China: `curl localhost:8080/countries/china`
- - retrieve data from database: `curl localhost:8080/countries/all
+ - retrieve data from database: `curl localhost:8080/countries/all`
   
 
 ### Reference Documentation
